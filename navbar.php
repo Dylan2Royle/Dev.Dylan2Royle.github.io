@@ -21,7 +21,7 @@
     <nav class="nav-bar">
         <button onclick="Home()" class="nav-link"><i class="fas fa-home"></i> Home</button>
         <button onclick="Project()" class="nav-link"><i class="fas fa-folder"></i> Projects</button>
-        <button onclick="About()" class="nav-link"><i class="fas fa-user"></i> About</button>
+        <button onclick="About()" class="nav-link"><i class="fas fa-user"></i> About Me</button>
         <button onclick="GitHub()" class="nav-link"><i class="fab fa-github"></i> GitHub</button>
     </nav>
     <div class="social-media-icons">
