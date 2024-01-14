@@ -1,5 +1,5 @@
 <div class="box">
-  <h2 class="header-on-image">Bolded Header Text</h2>
+  <h2 class="header-on-image">Volumio - Audio Media Streamer </h2>
   <div class="content">
     <div class="text">
       <p>Small description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
